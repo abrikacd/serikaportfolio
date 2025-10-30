@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Varela+Round&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bitcount+Grid+Single:wght@100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Varela+Round&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bitcount+Grid+Single:wght@100..900&family=Varela+Round&display=swap');
+
+*{
+    padding:0 0 0 0;
+    margin: 0 0 0 0;
+    box-sizing: border-box;
+    font-family: "Faculty Glyphic", sans-serif;
+}
+
+body{
+    background-color: #d2c8be;
+}
+
+.home{
+    text-decoration: none;
+    font-family: "Bitcount Grid Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size:33px;
+    display: inline-block;
+    margin-top: 25px;
+    color: rgb(226, 13, 13);
+    margin-left: 25px ;
+}
+
+.home:hover:after {
+    content: "";
+    display: block;
+    width: 80px;
+    border-bottom: 1px solid;
+    margin: 0 auto;
+}
+
+.rowone{
+    margin-top: 30px;
+    display:inline-block;
+}
+.one{
+    margin-left: 40px;
+    width: 280px;
+}
+
+.tw{
+    margin-left: 20px;
+    width:280px;
+}
+
+.thr{
+    margin-left: 20px;
+    width:280px;
+}
+
+.fr{
+    margin-left: 20px;
+    width:280px;
+}
+
+.rowtwo{
+    margin-top: 30px;
+    display:inline-block;
+}
+.fv{
+    margin-top: 32px;
+    margin-left: 40px;
+    width:400px;
+}
+
+.six{
+    margin-left: 20px;
+    height:535px;
+}
+
+p{
+    color: rgb(180, 17, 17);
+    margin-top: 20px;
+    text-align: center;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size:30px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.sev{
+    margin-top: 20px;
+    margin-left:45px;
+    height:820px;
+}
+
+.ei{
+    margin-left:45px;
+    height:730px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
